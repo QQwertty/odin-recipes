@@ -1,1 +1,3 @@
 # odin-recipes
+I will be making a recipe page using HTML 
+I will make a index file and create a boiler plate in that file. I will make a recipe directory and create a link to the recipe page on the homepage (index). The recipe page will contain a recipe for lasagna with steps and directions to make the dish, images of the dish, a description of the dish, ingredients of the dish. After I will make two more recipe pages which will contain the same things as the lasagna recipe page.
